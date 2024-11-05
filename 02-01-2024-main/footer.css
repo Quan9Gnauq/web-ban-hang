@@ -1,0 +1,122 @@
+footer a {
+  display: block;
+  font-size: 12px;
+  color: rgb(128, 128, 137);
+  margin-bottom: 8px;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+footer p {
+  font-size: 12px;
+  color: rgb(128, 128, 137);
+  margin-bottom: 8px;
+}
+#content-foot {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  color: rgb(56, 56, 61);
+  margin-bottom: 12px;
+  margin-top: 0px;
+}
+footer {
+  margin-top: 50px;
+  background: white;
+}
+.infomation-tk {
+  padding: 16px 0px;
+}
+.if-tk {
+  display: flex;
+  justify-content: space-between;
+  width: 1270px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.TDL {
+  width: 268px;
+}
+.hotline a {
+  display: inline;
+}
+.Ho-tro a {
+  display: inline;
+}
+.BLBM a {
+  display: inline;
+}
+.CNB-img {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+#bct-2 {
+  width: 32px;
+  height: 32px;
+}
+#ddk-bct {
+  width: 83px;
+  height: 32px;
+}
+.PTTT-img {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+#pttt-img img {
+  width: 30px;
+  height: 22px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+#tiki-now img {
+  margin-left: -9px;
+  margin-top: -8px;
+  width: 109px;
+  height: 33px;
+}
+.sns-tiki {
+  display: flex;
+  align-items: center;
+}
+#sns-tiki img {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.link-app {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+#ma-QR {
+  width: 80px;
+  height: 80px;
+}
+#ggp img {
+  width: 122px;
+  height: 36px;
+}
+#ggp {
+  margin-bottom: 0;
+}
+.addresses-tk {
+  width: 1270px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 16px 0px;
+}
+#line-cuoi {
+  content: " ";
+  height: 1px;
+  background-color: rgb(235, 235, 240);
+  width: 1240px;
+  margin-right: auto;
+  margin-left: auto;
+}
